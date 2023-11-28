@@ -34,7 +34,7 @@ struct ContentView: View {
     var title: some View {
         VStack {
             HStack {
-                Text("ballpa1n")
+                Text("Am0gu5")
                     .font(.system(size: 40, weight: .black, design: .monospaced))
                 Spacer()
             }
@@ -123,7 +123,7 @@ struct ContentView: View {
     
     @ViewBuilder
     var disclaimer: some View {
-        Text("Made by llsc12\nThis is a fake jailbreak, it's made for fun and because I was bored.\nTY capt inc for device info code")
+        Text("Be Greater, Be Yourself.  SRC CODE MADE BY MEW FOR POOPER ")
             .foregroundColor(.secondary)
             .font(.system(size: 9))
             .multilineTextAlignment(.center)
